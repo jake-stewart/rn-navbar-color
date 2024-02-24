@@ -1,6 +1,6 @@
 {
-  "_from": "git+https://github.com/BhavanPatel/react-native-navbar-color.git",
-  "_id": "react-native-navbar-color@0.0.1",
+  "_from": "git+https://github.com/jake-stewart/rn-navbar-color.git",
+  "_id": "rn-navbar-color@0.0.1",
   "_inBundle": false,
   "_location": "/react-native-navbar-color",
   "_phantomChildren": {},
@@ -40,7 +40,7 @@
   ],
   "license": "MIT",
   "main": "index.js",
-  "name": "react-native-navbar-color",
+  "name": "rn-navbar-color",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/BhavanPatel/react-native-navbar-color.git"
